@@ -1,0 +1,2 @@
+# DiscordAI
+DiscordAI Discord Bot
